@@ -67,7 +67,7 @@ async def initiate_nodes(self):
     # ...
 ```
 
-- [x] **discord.js-lavalink | *[Repo Link](https://github.com/MrJacz/discord.js-lavalink)**
+- [x] **discord.js-lavalink** | **[Repo Link](https://github.com/MrJacz/discord.js-lavalink)**
 ```js
 const { PlayerManager } = require("discord.js-lavalink");
 
