@@ -15,5 +15,6 @@
    "env": {
     "PASSWORD": {
       "description": "Password for the lavalink server to authenticate."
-    },
+    }
+   }
 }
